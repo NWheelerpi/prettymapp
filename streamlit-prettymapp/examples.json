@@ -1,4 +1,23 @@
 {
+    "Leicester": {
+        "address": "Leicester Airport",
+        "custom_title": "",
+        "radius": 1500,
+        "style": "Peach",
+        "shape": "rectangle",
+        "contour_width": 1,
+        "contour_color": "#2F3537",
+        "image": "ls.png",
+        "name_on": true,
+        "font_size": 25,
+        "font_color": "#2F3737",
+        "text_x": 19,
+        "text_y": -45,
+        "text_rotation": -24,
+        "bg_shape": "rectangle",
+        "bg_buffer": 2,
+        "bg_color": "#F2F4CB"
+    },
     "Macau": {
         "address": "Praça Ferreira do Amaral, Macau",
         "custom_title": "Macau",
