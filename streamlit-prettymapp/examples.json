@@ -1,7 +1,7 @@
 {
     "Leicester": {
         "address": "Leicester Airport",
-        "custom_title": "LS",
+        "custom_title": "Leicester",
         "radius": 1500,
         "style": "Aviation",
         "shape": "rectangle",

@@ -22,7 +22,7 @@ with open("./streamlit-prettymapp/examples.json", "r") as f:
     EXAMPLES = json.load(f)
 
 if not st.session_state:
-    st.session_state.update(EXAMPLES["LS"])
+    st.session_state.update(EXAMPLES["Leicester"])
 
     lc_class_colors = get_colors_from_style("Aviation")
     st.session_state.lc_classes = list(lc_class_colors.keys())  # type: ignore
