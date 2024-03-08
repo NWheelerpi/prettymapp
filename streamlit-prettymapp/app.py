@@ -24,10 +24,10 @@ with open("./streamlit-prettymapp/examples.json", "r") as f:
 if not st.session_state:
     st.session_state.update(EXAMPLES["LS"])
 
-    lc_class_colors = get_colors_from_style("Peach")
+    lc_class_colors = get_colors_from_style("Aviation")
     st.session_state.lc_classes = list(lc_class_colors.keys())  # type: ignore
     st.session_state.update(lc_class_colors)
-    st.session_state["previous_style"] = "Peach"
+    st.session_state["previous_style"] = "Aviation"
     st.session_state["previous_example_index"] = 0
 
 example_image_pattern = "streamlit-prettymapp/example_prints/{}_small.png"
