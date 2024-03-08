@@ -71,7 +71,7 @@ STYLES = {
         "grassland": {"fc": "#5FC95F", "ec": "#2F3737", "lw": 1, "zorder": 2},
         "woodland": {"fc": "#0D7B09", "ec": "#2F3737", "lw": 1, "zorder": 2},
         "streets": {"fc": "#1B1C1B", "zorder": 3},
-        "other": {"fc": "#7B0F7B", "ec": "#2F3737", "lw": 1, "zorder": 3},
+        "other": {"fc": "#FFFFFF", "ec": "#2F3737", "lw": 1, "zorder": 3},
     },
     "Auburn": {
         "urban": {
