@@ -3,7 +3,7 @@
         "address": "Leicester Airport",
         "custom_title": "LS",
         "radius": 1500,
-        "style": "Peach",
+        "style": "Aviation",
         "shape": "rectangle",
         "contour_width": 1,
         "contour_color": "#2F3537",
