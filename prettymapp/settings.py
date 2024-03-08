@@ -53,6 +53,26 @@ STYLES = {
         "streets": {"fc": "#2F3737", "zorder": 3},
         "other": {"fc": "#F2F4CB", "ec": "#2F3737", "lw": 1, "zorder": 3},
     },
+    "Aviation": {
+        "urban": {
+            "cmap": ["#9E9A9A", "#696767", "#3D3B3B"],
+            "ec": "#2F3737",
+            "lw": 0.5,
+            "zorder": 4,
+        },
+        "water": {
+            "fc": "#6A90CE",
+            "ec": "#85c9e6",
+            "hatch": "ooo...",
+            "hatch_c": "#2F3737",
+            "lw": 1,
+            "zorder": 1,
+        },
+        "grassland": {"fc": "#5FC95F", "ec": "#2F3737", "lw": 1, "zorder": 2},
+        "woodland": {"fc": "#0D7B09", "ec": "#2F3737", "lw": 1, "zorder": 2},
+        "streets": {"fc": "#1B1C1B", "zorder": 3},
+        "other": {"fc": "#7B0F7B", "ec": "#2F3737", "lw": 1, "zorder": 3},
+    },
     "Auburn": {
         "urban": {
             "cmap": ["#433633", "#FF5E5B", "#FF5E5B"],
