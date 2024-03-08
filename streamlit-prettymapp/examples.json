@@ -8,7 +8,7 @@
         "contour_width": 1,
         "contour_color": "#2F3537",
         "image": "ls.png",
-        "name_on": true,
+        "name_on": false,
         "font_size": 25,
         "font_color": "#2F3737",
         "text_x": 19,
